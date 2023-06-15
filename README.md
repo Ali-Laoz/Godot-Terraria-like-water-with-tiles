@@ -1,7 +1,10 @@
-# Godot-Terraria-like-water-with-tiles
-Godot:Terraria like water with tiles
+# Godot-Terraria-like-water-with-tiles<br>
+Godot:Terraria like water with tiles<br>
 
-
+--------Actions u can do----------<br>
+1-Set block with mouse left<br>
+2-Remove block or water block with mouse right<br>
+3-Add water with middle mouse<br> 
 
 
 
