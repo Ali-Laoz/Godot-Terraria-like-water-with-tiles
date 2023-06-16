@@ -6,6 +6,8 @@ Godot:Terraria like water with tiles<br>
 2-Remove block or water block with mouse right<br>
 3-Add water with middle mouse<br> 
 
+Concept used from this:
+http://www.jgallant.com/2d-liquid-simulator-with-cellular-automaton-in-unity/
 
 
 
